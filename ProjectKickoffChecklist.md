@@ -10,7 +10,7 @@ For each of you individually copy the checklist and check them of if it is done.
 
 - [X] Received a Taiga invite
 
-- [X ] Accepted the Taiga invite
+- [X] Accepted the Taiga invite
 
 - [X] Do you check Slack regularly
 
