@@ -36,10 +36,10 @@ public class EventsManager {
 		"http://www.openmechanics.org/2003/jnotes-events-file";
 */
 	public static final int NO_REPEAT = 0;
-	public static final int REPEAT_DAILY = 1;
-	public static final int REPEAT_WEEKLY = 2;
-	public static final int REPEAT_MONTHLY = 3;
-	public static final int REPEAT_YEARLY = 4;
+	public static final int REPEAT_DAILY = 10;
+	public static final int REPEAT_WEEKLY = 20;
+	public static final int REPEAT_MONTHLY = 30;
+	public static final int REPEAT_YEARLY = 40;
 
 	public static Document _doc = null;
 	static Element _root = null;
