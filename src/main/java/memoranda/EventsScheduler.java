@@ -107,7 +107,7 @@ public class EventsScheduler {
        cal.set(Calendar.MINUTE, 0);
        cal.set(Calendar.SECOND,0);
        cal.set(Calendar.MILLISECOND,0);
-       cal.add(Calendar.DAY_OF_MONTH,1);
+       cal.add(Calendar.DAY_OF_MONTH,0);
        return cal.getTime();
     }
 
